@@ -1,0 +1,305 @@
+using Pool
+number of cores 1
+lines size 100
+ellapsed making the subplots 6.364714860916138
+ellapsed making all rows 1.5508332252502441
+ellapsed joining all rows, making the final dotplot 1.783301591873169
+total 67612
+-rw-rw-r-- 1 user user     1560 Jun  9 09:44 concat_images.py
+-rw-rw-r-- 1 user user 59134266 Jun  9 09:49 dotplot_final.jpeg
+-rw-rw-r-- 1 user user     2842 Jun  9 09:44 dotplot.py
+-rw-rw-r-- 1 user user  4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user     2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user     4096 Jun  9 09:49 images_rows
+drwxrwxr-x 2 user user   344064 Jun  9 09:49 images_subdotplot
+-rw-rw-r-- 1 user user      205 Jun  9 09:49 log
+drwxrwxr-x 2 user user     4096 Jun  9 09:46 __pycache__
+-rw-rw-r-- 1 user user      156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user  5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 9.846067667007446
+size of all the folder 162M	.
+
+
+using Pool
+number of cores 1
+lines size 300
+ellapsed making the subplots 57.79481530189514
+ellapsed making all rows 13.42575478553772
+ellapsed joining all rows, making the final dotplot 16.750065326690674
+total 530068
+-rw-rw-r-- 1 user user      1560 Jun  9 09:44 concat_images.py
+-rw-rw-r-- 1 user user 529835692 Jun  9 09:50 dotplot_final.jpeg
+-rw-rw-r-- 1 user user      2817 Jun  9 09:49 dotplot.py
+-rw-rw-r-- 1 user user   4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user      2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user     12288 Jun  9 09:50 images_rows
+drwxrwxr-x 2 user user   3190784 Jun  9 09:50 images_subdotplot
+-rw-rw-r-- 1 user user      1136 Jun  9 09:50 log
+drwxrwxr-x 2 user user      4096 Jun  9 09:46 __pycache__
+-rw-rw-r-- 1 user user       156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user   5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 88.19235491752625
+size of all the folder 1.4G	.
+
+
+number of cores 1
+lines size 600
+ellapsed making the subplots 241.70024704933167
+ellapsed making all rows 63.45361804962158
+ellapsed total time 320.2448399066925
+size of all the folder 3.9G	.
+
+
+number of cores 1
+lines size 1000
+ellapsed making the subplots 667.3324573040009
+ellapsed making all rows 104.17181825637817
+ellapsed total time 771.8454823493958
+size of all the folder 4.4G	.
+
+
+number of cores 10
+lines size 600
+ellapsed making the subplots 65.91977906227112
+ellapsed making all rows 15.704905986785889
+ellapsed total time 109.55326223373413
+size of all the folder 3.9G	.
+
+
+number of cores 10
+lines size 300
+ellapsed making the subplots 12.577181100845337
+ellapsed making all rows 2.671691417694092
+ellapsed joining all rows, making the final dotplot 15.56916356086731
+total 530092
+-rw-rw-r-- 1 user user      1560 Jun  9 09:44 concat_images.py
+-rw-rw-r-- 1 user user 529835692 Jun  9 10:24 dotplot_final.jpeg
+-rw-rw-r-- 1 user user      2817 Jun  9 09:49 dotplot.py
+-rw-rw-r-- 1 user user   4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user      2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user     12288 Jun  9 10:24 images_rows
+drwxrwxr-x 2 user user   3215360 Jun  9 10:24 images_subdotplot
+-rw-rw-r-- 1 user user      2654 Jun  9 10:24 log
+drwxrwxr-x 2 user user      4096 Jun  9 09:46 __pycache__
+-rw-rw-r-- 1 user user       156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user   5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 31.07406258583069
+size of all the folder 1.4G	.
+
+
+number of cores 1
+lines size 400
+ellapsed making the subplots 107.12954759597778
+ellapsed making all rows 24.878309726715088
+ellapsed total time 147.98643517494202
+size of all the folder 2.0G	.
+
+
+number of cores 10
+lines size 300
+ellapsed making the subplots 13.213622331619263
+ellapsed making all rows 2.6294145584106445
+ellapsed joining all rows, making the final dotplot 16.221015214920044
+total 530100
+-rw-rw-r-- 1 user user      1389 Jun  9 16:08 concat_images.py
+-rw-rw-r-- 1 user user      1566 Jun  9 06:02 concat_images_sequential.py
+-rw-rw-r-- 1 user user 529835692 Jun  9 16:10 dotplot_final.jpeg
+-rw-rw-r-- 1 user user      2817 Jun  9 09:49 dotplot.py
+-rw-rw-r-- 1 user user   4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user      2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user     12288 Jun  9 16:09 images_rows
+drwxrwxr-x 2 user user   3219456 Jun  9 16:09 images_subdotplot
+-rw-rw-r-- 1 user user      3785 Jun  9 16:10 log
+drwxrwxr-x 2 user user      4096 Jun  9 09:46 __pycache__
+-rw-rw-r-- 1 user user       156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user   5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 32.28384709358215
+size of all the folder 1.4G	.
+
+
+number of cores 1
+lines size 200
+ellapsed making the subplots 25.584659576416016
+ellapsed making all rows 6.21185827255249
+ellapsed joining all rows, making the final dotplot 7.06677508354187
+total 241136
+-rw-rw-r-- 1 user user      1389 Jun  9 16:08 concat_images.py
+-rw-rw-r-- 1 user user      1566 Jun  9 06:02 concat_images_sequential.py
+-rw-rw-r-- 1 user user 235804524 Jun  9 16:12 dotplot_final.jpeg
+-rw-rw-r-- 1 user user      2817 Jun  9 09:49 dotplot.py
+-rw-rw-r-- 1 user user   4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user      2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user      4096 Jun  9 16:12 images_rows
+drwxrwxr-x 2 user user   1355776 Jun  9 16:12 images_subdotplot
+-rw-rw-r-- 1 user user      4789 Jun  9 16:12 log
+drwxrwxr-x 2 user user      4096 Jun  9 09:46 __pycache__
+-rw-rw-r-- 1 user user       156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user   5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 39.066574811935425
+size of all the folder 618M	.
+
+
+number of cores 1
+lines size 400
+ellapsed making the subplots 104.00304913520813
+ellapsed making all rows 24.539074182510376
+ellapsed total time 144.2671229839325
+size of all the folder 1.8G	.
+
+
+number of cores 1
+lines size 10
+ellapsed making the subplots 0.1015932559967041
+ellapsed making all rows 0.025943756103515625
+ellapsed joining all rows, making the final dotplot 0.04083371162414551
+total 10100
+-rw-rw-r-- 1 user user    1394 Jun  9 16:19 concat_images.py
+-rw-rw-r-- 1 user user    1566 Jun  9 06:02 concat_images_sequential.py
+-rw-rw-r-- 1 user user  581682 Jun  9 16:19 dotplot_final.jpeg
+-rw-rw-r-- 1 user user    2817 Jun  9 09:49 dotplot.py
+-rw-rw-r-- 1 user user 4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user    2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user    4096 Jun  9 16:19 images_rows
+drwxrwxr-x 2 user user    4096 Jun  9 16:19 images_subdotplot
+-rw-rw-r-- 1 user user    5995 Jun  9 16:19 log
+drwxrwxr-x 2 user user    4096 Jun  9 09:46 __pycache__
+-rw-rw-r-- 1 user user     156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user 5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 0.38045239448547363
+size of all the folder 12M	.
+
+
+number of cores 1
+lines size 400
+ellapsed making the subplots 104.50861430168152
+ellapsed making all rows 24.245489358901978
+ellapsed total time 142.80521702766418
+size of all the folder 1.6G	.
+
+
+number of cores 10
+lines size 100
+ellapsed making the subplots 1.381957769393921
+ellapsed making all rows 0.292924165725708
+ellapsed joining all rows, making the final dotplot 1.7751049995422363
+total 67632
+-rw-rw-r-- 1 user user     1394 Jun  9 16:19 concat_images.py
+-rw-rw-r-- 1 user user     1566 Jun  9 06:02 concat_images_sequential.py
+-rw-rw-r-- 1 user user 59134266 Jun  9 16:44 dotplot_final.jpeg
+-rw-rw-r-- 1 user user     2817 Jun  9 09:49 dotplot.py
+-rw-rw-r-- 1 user user  4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user     2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user     4096 Jun  9 16:44 images_rows
+drwxrwxr-x 2 user user   356352 Jun  9 16:44 images_subdotplot
+-rw-rw-r-- 1 user user     7174 Jun  9 16:44 log
+drwxrwxr-x 2 user user     4096 Jun  9 09:46 __pycache__
+-rw-rw-r-- 1 user user      156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user  5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 3.6654481887817383
+size of all the folder 162M	.
+
+
+number of cores 10
+lines size 200
+ellapsed making the subplots 6.22040867805481
+ellapsed making all rows 1.0959148406982422
+ellapsed joining all rows, making the final dotplot 6.838838338851929
+total 241144
+-rw-rw-r-- 1 user user      1394 Jun  9 16:19 concat_images.py
+-rw-rw-r-- 1 user user      1566 Jun  9 06:02 concat_images_sequential.py
+-rw-rw-r-- 1 user user 235804524 Jun  9 16:44 dotplot_final.jpeg
+-rw-rw-r-- 1 user user      2817 Jun  9 09:49 dotplot.py
+-rw-rw-r-- 1 user user   4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user      2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user      4096 Jun  9 16:44 images_rows
+drwxrwxr-x 2 user user   1355776 Jun  9 16:44 images_subdotplot
+-rw-rw-r-- 1 user user      8227 Jun  9 16:44 log
+drwxrwxr-x 2 user user      4096 Jun  9 09:46 __pycache__
+-rw-rw-r-- 1 user user       156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user   5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 14.335844039916992
+size of all the folder 618M	.
+
+
+number of cores 10
+lines size 400
+ellapsed making the subplots 40.91368746757507
+ellapsed making all rows 4.752512693405151
+ellapsed total time 60.61493706703186
+size of all the folder 1.8G	.
+
+
+number of cores 10
+lines size 40
+ellapsed making the subplots 0.22782015800476074
+ellapsed making all rows 0.06497454643249512
+ellapsed joining all rows, making the final dotplot 0.3035404682159424
+total 18812
+-rw-rw-r-- 1 user user    1394 Jun  9 16:19 concat_images.py
+-rw-rw-r-- 1 user user 9435413 Jun  9 17:11 dotplot_final.jpeg
+-rw-rw-r-- 1 user user    2817 Jun  9 09:49 dotplot.py
+-rw-rw-r-- 1 user user 4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user    2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user    4096 Jun  9 17:11 images_rows
+drwxrwxr-x 2 user user   65536 Jun  9 17:11 images_subdotplot
+-rw-rw-r-- 1 user user    9492 Jun  9 17:11 log
+drwxrwxr-x 2 user user    4096 Jun  9 17:09 __pycache__
+-rw-rw-r-- 1 user user     156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user 5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 0.7515041828155518
+size of all the folder 34M	.
+
+
+number of cores 10
+lines size 40
+ellapsed making the subplots 0.22234582901000977
+ellapsed making all rows 0.05501580238342285
+ellapsed joining all rows, making the final dotplot 0.2899508476257324
+total 18812
+-rw-rw-r-- 1 user user    1394 Jun  9 16:19 concat_images.py
+-rw-rw-r-- 1 user user 9435413 Jun  9 17:12 dotplot_final.jpeg
+-rw-rw-r-- 1 user user    2817 Jun  9 09:49 dotplot.py
+-rw-rw-r-- 1 user user 4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user    2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user    4096 Jun  9 17:12 images_rows
+drwxrwxr-x 2 user user   65536 Jun  9 17:12 images_subdotplot
+-rw-rw-r-- 1 user user   10463 Jun  9 17:12 log
+drwxrwxr-x 2 user user    4096 Jun  9 17:09 __pycache__
+-rw-rw-r-- 1 user user     156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user 5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 0.7181613445281982
+size of all the folder 34M	.
+
+
+number of cores 10
+lines size 10
+ellapsed making the subplots 0.0491490364074707
+ellapsed making all rows 0.0182492733001709
+ellapsed joining all rows, making the final dotplot 0.02011275291442871
+total 10104
+-rw-rw-r-- 1 user user    1394 Jun  9 16:19 concat_images.py
+-rw-rw-r-- 1 user user  581682 Jun  9 17:12 dotplot_final.jpeg
+-rw-rw-r-- 1 user user    2817 Jun  9 09:49 dotplot.py
+-rw-rw-r-- 1 user user 4699673 Jun  2 18:41 E_coli.fna
+-rw-rw-r-- 1 user user    2257 Jun  9 09:38 functionsShared.py
+drwxrwxr-x 2 user user    4096 Jun  9 17:12 images_rows
+drwxrwxr-x 2 user user    4096 Jun  9 17:12 images_subdotplot
+-rw-rw-r-- 1 user user   11433 Jun  9 17:12 log
+drwxrwxr-x 2 user user    4096 Jun  9 17:09 __pycache__
+-rw-rw-r-- 1 user user     156 Jun  9 07:17 readme.md
+-rw-rw-r-- 1 user user 5013387 Jun  2 18:41 Salmonella.fna
+
+ellapsed total time 0.2241511344909668
+size of all the folder 12M	.
+
+
